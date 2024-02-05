@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451555587948",
+    "project_id": "internshala-assesment-noteapp",
+    "storage_bucket": "internshala-assesment-noteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451555587948:android:577940b3248a1a65bc6549",
+        "android_client_info": {
+          "package_name": "com.example.internshala_assesment_noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451555587948-75eug3il61g0ktcn3as42rnjssaoqlee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.internshala_assesment_noteapp",
+            "certificate_hash": "92257fb6006b8444b01598f893093724cd2324b9"
+          }
+        },
+        {
+          "client_id": "451555587948-a0l0f0500gvc0conpq8r9h6okqs0jef0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnnfu6PFUnE2KYLQ6zaOlwtD-aFPM6VnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451555587948-a0l0f0500gvc0conpq8r9h6okqs0jef0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
