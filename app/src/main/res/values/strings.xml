@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Internshala_Assesment_NoteApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">685208928026-ke84b6jr254obmhufpj8muidebiadqi6.apps.googleusercontent.com</string>
+</resources>
